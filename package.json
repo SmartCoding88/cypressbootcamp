@@ -1,0 +1,26 @@
+{
+  "name": "cypressbootcamp",
+  "version": "1.0.0",
+  "description": "Cypress for Linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khouloudAmamouHaddad/cypressbootcamp.git"
+  },
+  "keywords": [
+    "cypress",
+    "linux"
+  ],
+  "author": "khouloud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khouloudAmamouHaddad/cypressbootcamp/issues"
+  },
+  "homepage": "https://github.com/khouloudAmamouHaddad/cypressbootcamp#readme",
+  "devDependencies": {
+    "cypress": "^12.6.0"
+  }
+}
